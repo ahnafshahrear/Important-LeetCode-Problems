@@ -18,7 +18,8 @@
 
 
 
-### Linked List (6)
+### Linked List (1)
+- **[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/?envType=daily-question&envId=2024-03-07)**
 
 
 
