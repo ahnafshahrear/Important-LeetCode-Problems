@@ -1,6 +1,6 @@
 # Array
 
-## LeetCode Top Interview Questions
+## [LeetCode Top Interview Questions](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/)
 
 - **[Remove Duplicates from Sorted Array](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/727/)**
   - **Technique: Maintain 2 pointers, 2nd pointer travers & puts unique elements in 1st pointer**
