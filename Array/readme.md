@@ -7,7 +7,7 @@
 - **[Best Time to Buy & Sell Stock II](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/564/)**
   - **Technique: Sum += (Max - Min) of every increasing order segment**
 - **[Contains Duplicate](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/578/)**
-  - **Technique: Use set**
+  - **Technique: array.size() != set.size()**
 - **[Single Number](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/549/)**
   - **Technique: XOR all numbers**
 - **[Plus One](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/559/)**
