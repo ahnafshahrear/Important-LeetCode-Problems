@@ -2,17 +2,13 @@ class Solution {
 public:
     bool containsDuplicate(vector<int> &nums) 
     {
-        unordered_set<int> visited;
+        unordered_set<int> uniques;
 
         for (int n: nums)
         {
-            if (visited.count(n)) 
-            {
-                return true;
-            }
-            visited.insert(n);
+            uniques.insert(n);
         }
-        return false;
+        return nums.size() != uniques.size();
     }
 };
 
