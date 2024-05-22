@@ -5,7 +5,7 @@
 - **[Remove Duplicates from Sorted Array](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/727/)**
   - **Technique: Maintain 2 pointers, 2nd pointer travers & puts unique elements in 1st pointer**
 - **[Best Time to Buy & Sell Stock II](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/564/)**
-  - **Technique: Sum += (Max - Min) of every increasing order segment**
+  - **Technique: Ans += (Max - Min) of every increasing order segment**
 - **[Contains Duplicate](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/578/)**
   - **Technique: array.size() != set.size()**
 - **[Single Number](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/549/)**
