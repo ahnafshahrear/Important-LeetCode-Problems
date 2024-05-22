@@ -10,6 +10,8 @@
   - **Technique: array.size() != set.size()**
 - **[Single Number](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/549/)**
   - **Technique: XOR all numbers**
+- **[Intersection of Two Arrays II](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/674/)**
+  - **Technique: Count 1st array elements & then find intersection from 2nd array**
 - **[Plus One](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/559/)**
   - **Technique: Make every 9 = 0 from end, increment the 1st number < 9 or make 10...0 if all are 9's**
 - **[Move Zeros](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/567/)**
