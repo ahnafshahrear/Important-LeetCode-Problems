@@ -6,6 +6,8 @@
   - **Technique: Maintain 2 pointers, 2nd pointer travers & puts unique elements in 1st pointer**
 - **[Best Time to Buy & Sell Stock II](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/564/)**
   - **Technique: Ans += (Max - Min) of every increasing order segment**
+- **[Rotate Array](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/646/)**
+  - **Technique: Reverse the full array then, reverse the first k elements & then, reverse the remaining elements**
 - **[Contains Duplicate](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/578/)**
   - **Technique: array.size() != set.size()**
 - **[Single Number](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/549/)**
