@@ -1,6 +1,5 @@
 # Linked List
 
-
 ## [LeetCode Top Interview Questions](https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/)
 
 - **[Delete Node in a Linked List](https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/553/)**
@@ -11,6 +10,8 @@
   - **Technique: Traverse & reverse**
 - **[Linked List Cycle](https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/773/)**
   - **Technique: Has cycle if slow pointer = fast pointer**
+- **[Palindrome Linked List](https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/772/)**
+  - **Technique: Reverse 2nd half & then check**
 - **[Merge Two Sorted Lists](https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/771/)**
   - **Technique: Traverse & merge**
 
