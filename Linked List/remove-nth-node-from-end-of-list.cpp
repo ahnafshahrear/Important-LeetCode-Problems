@@ -1,33 +1,25 @@
 class Solution {
 public:
-    ListNode* removeNthFromEnd(ListNode* head, int n) 
+    ListNode* removeNthFromEnd(ListNode* head, int in) 
     {
-        if (head->next == nullptr)
-        {
-            return nullptr;
-        }
+        ListNode* fake = new ListNode(-1, head);
+        ListNode* slow = fake;
+        ListNode* fast = head;
 
-        ListNode *slow = head;
-        ListNode *fast = head;
-
-        while (n--)
+        while (in--)
         {
             fast = fast->next;
         }
-
-        if (fast == nullptr) 
+        while (fast)
         {
-            return head->next;
-        }
-
-        while (fast->next)
-        {
+            fast = fast->next;
             slow = slow->next;
-            fast = fast->next;
         }
 
         slow->next = slow->next->next;
 
-        return head;
+        return fake->next;
     }
 };
+
+//... Time Complexity = O[n]
