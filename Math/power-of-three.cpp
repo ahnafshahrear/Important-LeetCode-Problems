@@ -9,5 +9,3 @@ public:
         return n == 1;
     }
 };
-
-//... O[log(n)]
