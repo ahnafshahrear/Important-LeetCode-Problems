@@ -8,3 +8,8 @@
   - **Technique: Sieve of Eratosthenes**
 - **[Power of Three](https://leetcode.com/explore/interview/card/top-interview-questions-easy/102/math/745/)**
   - **Technique: Continuously /= 3**
+
+## My Bookmarks
+
+- **[Power of Two](https://leetcode.com/problems/power-of-two/description/)**
+  - **Technique: n & (n - 1) = 0**
