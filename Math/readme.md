@@ -13,3 +13,5 @@
 
 - **[Power of Two](https://leetcode.com/problems/power-of-two/description/)**
   - **Technique: n & (n - 1) = 0**
+- **[Power of Four](https://leetcode.com/problems/power-of-four/description/)**
+  - **Technique: Continuously /= 4**
