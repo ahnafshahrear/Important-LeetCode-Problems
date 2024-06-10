@@ -8,8 +8,10 @@
   - **Technique: Sieve of Eratosthenes**
 - **[Power of Three](https://leetcode.com/explore/interview/card/top-interview-questions-easy/102/math/745/)**
   - **Technique: Continuously /= 3**
+- **[Roman to Integer](https://leetcode.com/explore/interview/card/top-interview-questions-easy/102/math/878/)**
+  - **Technique: Check previous to adjust value**
 
-## My Bookmarks
+## [Some Must Solve Problems]()
 
 - **[Power of Two](https://leetcode.com/problems/power-of-two/description/)**
   - **Technique: n & (n - 1) = 0**
