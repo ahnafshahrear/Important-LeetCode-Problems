@@ -3,7 +3,7 @@
 ## [LeetCode Top Interview Questions](https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/)
 
 - **[Climbing Stairs](https://leetcode.com/explore/interview/card/top-interview-questions-easy/97/dynamic-programming/569/)**
-  - **Technique: Fibonacci**
+  - **Technique: Sum of previous two**
 
 ## [My Bookmarks]()
 - **[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/?envType=daily-question&envId=2023-10-27)**
