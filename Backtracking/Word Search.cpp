@@ -19,7 +19,7 @@ private:
         if (index == word.size() - 1) {
             return true;
         }
-        board[r][c] = ' ';
+        board[r][c] = '.';
 
         if (search(board, word, r + 1, c, index + 1) or
             search(board, word, r - 1, c, index + 1) or
