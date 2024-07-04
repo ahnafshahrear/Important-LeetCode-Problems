@@ -16,11 +16,9 @@ private:
         if (r < 0 or r >= board.size() or c < 0 or c >= board[0].size() or board[r][c] != word[index]) {
             return false;
         }
-
         if (index == word.size() - 1) {
             return true;
         }
-
         board[r][c] = ' ';
 
         if (search(board, word, r + 1, c, index + 1) or
@@ -29,7 +27,6 @@ private:
             search(board, word, r, c - 1, index + 1)) {
             return true;
         }
-
         board[r][c] = word[index];
 
         return false;
