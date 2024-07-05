@@ -10,14 +10,14 @@ private:
     vector<vector<int>> result;
     vector<int> current;
 
-    void combinations(int start, int n, int k) {
+    void combinations(int start, int end, int k) {
         if (current.size() == k) {
             result.push_back(current);
             return;
         }
-        for (int x = start; x <= n; x++) {
+        for (int x = start; x <= end; x++) {
             current.push_back(x);
-            combinations(x + 1, n, k);
+            combinations(x + 1, end, k);
             current.pop_back();
         }
     }
