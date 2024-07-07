@@ -1,11 +1,9 @@
 class Solution {
 public:
-    ListNode* reverseList(ListNode* head) 
-    {
+    ListNode* reverseList(ListNode* head) {
         ListNode* previous = nullptr;
 
-        while (head != nullptr)
-        {
+        while (head != nullptr) {
             ListNode* next = head->next;
             head->next = previous;
             previous = head;
@@ -14,5 +12,3 @@ public:
         return previous;
     }
 };
-
-//... Time Complexity = O[n]
