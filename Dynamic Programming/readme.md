@@ -1,10 +1,4 @@
-# Dynamic Programming
+# Important LeetCode Problems - Dynamic Programming
+*[Ahnaf Shahrear Khan](https://github.com/ahnafshahrear) - Computer Science & Engineering, University of Rajshahi*
 
-## 📃 [LeetCode Top Interview Questions](https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/)
-
-- **[Climbing Stairs](https://leetcode.com/explore/interview/card/top-interview-questions-easy/97/dynamic-programming/569/)**
-  - **Technique: Sum of previous two**
-
-## 📃 [LeetCode My Bookmarks]()
-- **[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/?envType=daily-question&envId=2023-10-27)**
-  - **Technique: 1st determine single & double length palindromes**
+- **[Maximum Number of Points with Cost](https://leetcode.com/problems/maximum-number-of-points-with-cost/description/) `Medium`**
