@@ -5,7 +5,7 @@ public:
         int n = s.size();
         bool cache[n][n];
         memset(cache, false, sizeof(cache));
-        
+
         int start = 0, end = 0;
 
         for (int k = 0; k < n; k++)
@@ -18,7 +18,6 @@ public:
                 start = k - 1; end = k;
             }
         }
-
         for (int d = 2; d < n; d++)
         {
             for (int k = 0; k < n - d; k++)
@@ -31,7 +30,6 @@ public:
                 }
             }
         }
-
         return s.substr(start, end - start + 1);
     }
 };
