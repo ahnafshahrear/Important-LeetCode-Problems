@@ -5,3 +5,4 @@
 - **[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) `Easy`**
 - **[Two Sum](https://leetcode.com/problems/two-sum/description/) `Easy`**
 - **[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) `Medium`**
+- **[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) `Medium`**
