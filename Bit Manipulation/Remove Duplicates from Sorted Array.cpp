@@ -1,11 +1,11 @@
 class Solution {
 public:
-    int removeDuplicates(vector<int>& nums) {
-        int count = 1, idx = 1;
-
-        while (idx < nums.size()) {
-            (nums[idx] != nums[idx - 1]) ? nums[count++] = nums[idx++] : idx++;
+    vector<int> countBits(int n) {
+        vector<int> bitsCount(n + 1, 0);
+        
+        for (int index = 0; index <= n; index++) {
+            bitsCount[index] = bitsCount[index >> 1] + (index & 1);
         }
-        return count;
+        return bitsCount;
     }
 };
