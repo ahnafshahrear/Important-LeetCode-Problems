@@ -8,4 +8,18 @@
 
 **Checkout my [`LeetCode`](https://leetcode.com/u/ahnafshahrear/) profile**
 
+
+
 ## Array
+- **[Two Sum](https://leetcode.com/problems/two-sum/description/)**
+- **[Best Time to Buy & Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)**
+- **[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)**
+- **[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)**
+- **[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/)**
+- **[Count & Say](https://leetcode.com/problems/count-and-say/description/)**
+- **[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/)**
+- **[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)**
+
+
+
+## Linked List
