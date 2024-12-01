@@ -1,16 +1,19 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        vector<int> ans;
+        vector<int> result;
         unordered_map<int, int> indices;
 
         for (int i = 0; i < nums.size(); i++) {
             if (indices.find(target - nums[i]) != indices.end()) {
-                ans = {indices[target - nums[i]], i};
+                result = {indices[target - nums[i]], i};
                 break;
             }
             indices[nums[i]] = i;
         }
-        return ans;
+        return result;
     }
 };
+
+// Problem Link: https://leetcode.com/problems/two-sum/description/
+// Time Complexity: O(n)
