@@ -1,10 +1,4 @@
 class Solution {
-public:
-    vector<vector<int>> combine(int n, int k) {
-        combinations(1, n, k);
-
-        return result;
-    }
 private:
     vector<vector<int>> result;
     vector<int> current;
@@ -20,6 +14,12 @@ private:
             current.pop_back();
         }
     } 
+public:
+    vector<vector<int>> combine(int n, int k) {
+        combinations(1, n, k);
+
+        return result;
+    }
 };
 
 // Problem Link: https://leetcode.com/problems/combinations/description/
