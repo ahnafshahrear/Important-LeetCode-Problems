@@ -10,7 +10,6 @@ public:
         }
         return false;
     }
-
 private:
     bool search(vector<vector<char>>& board, string word, int r, int c, int index) {
         if (r < 0 or r >= board.size() or c < 0 or c >= board[0].size() or board[r][c] != word[index]) {
@@ -32,3 +31,6 @@ private:
         return false;
     }
 };
+
+// Problem Link: https://leetcode.com/problems/word-search/description/
+// Time Complexity: O(m*n*4^x)
