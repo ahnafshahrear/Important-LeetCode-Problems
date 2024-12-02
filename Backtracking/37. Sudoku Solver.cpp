@@ -3,7 +3,6 @@ public:
     void solveSudoku(vector<vector<char>>& board) { 
         SolveSudoku(board);
     }
-    
 private:
     bool SolveSudoku(vector<vector<char>>& board) {
         int size = board.size();
@@ -45,3 +44,6 @@ private:
         return true;
     }
 };
+
+// Problem Link: https://leetcode.com/problems/sudoku-solver/description/
+// Time Complexity: O(9^n^2)
