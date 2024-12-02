@@ -1,11 +1,4 @@
 class Solution {
-public:
-    vector<vector<int>> permute(vector<int>& nums) {
-        permutations(nums, 0, nums.size() - 1);
-
-        return result;
-    }
-
 private:
     vector<vector<int>> result;
 
@@ -20,4 +13,13 @@ private:
             swap(nums[i], nums[idx]);
         }
     }
+public:
+    vector<vector<int>> permute(vector<int>& nums) {
+        permutations(nums, 0, nums.size() - 1);
+
+        return result;
+    }
 };
+
+// Problem Link: https://leetcode.com/problems/permutations/description/
+// Time Complexity: O(n*n!)
