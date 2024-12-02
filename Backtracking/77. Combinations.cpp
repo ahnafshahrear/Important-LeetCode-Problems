@@ -5,7 +5,6 @@ public:
 
         return result;
     }
-
 private:
     vector<vector<int>> result;
     vector<int> current;
@@ -20,5 +19,8 @@ private:
             combinations(x + 1, end, k);
             current.pop_back();
         }
-    }
+    } 
 };
+
+// Problem Link: https://leetcode.com/problems/combinations/description/
+// Time Complexity: O(nCk*k)
