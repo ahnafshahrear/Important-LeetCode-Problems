@@ -21,3 +21,6 @@ public:
         return high + 1;
     }
 };
+
+// Problem Link: https://leetcode.com/problems/search-insert-position/description/
+// Time Complexity: O(logn)
