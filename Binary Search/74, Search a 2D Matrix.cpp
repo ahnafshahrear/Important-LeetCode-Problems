@@ -15,3 +15,6 @@ public:
         return matrix[low / columns][low % columns] == target or matrix[high / columns][high % columns] == target;
     }
 };
+
+// Problem Link: https://leetcode.com/problems/search-a-2d-matrix/description/
+// Time Complexity: O(log(m*n))
