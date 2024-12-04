@@ -15,3 +15,6 @@ public:
         return high;
     }
 };
+
+// Problem Link: https://leetcode.com/problems/sqrtx/description/
+// Time Complexity: O(logn)
