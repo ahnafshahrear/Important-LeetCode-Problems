@@ -12,3 +12,6 @@ public:
         }
     }
 };
+
+// Problem Link: https://leetcode.com/problems/powx-n/description/
+// Time Complexity: O(logn)
