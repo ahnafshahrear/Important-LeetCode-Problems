@@ -44,5 +44,5 @@ public:
     }
 };
 
-// Problem Link: https://leetcode.com/problems/powx-n/description/
+// Problem Link: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/
 // Time Complexity: O(logn)
