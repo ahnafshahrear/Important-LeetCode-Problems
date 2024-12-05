@@ -1,3 +1,12 @@
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode(int x) : val(x), next(NULL) {}
+ * };
+ */
+
 class Solution {
 public:
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
@@ -19,3 +28,6 @@ public:
         return ptr1;
     }
 };
+
+// Problem Link: https://leetcode.com/problems/intersection-of-two-linked-lists/description/
+// Time Complexity: O(n)
