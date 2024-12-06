@@ -15,5 +15,5 @@ public:
     }
 };
 
-// Problem Link: https://leetcode.com/problems/results-triangle/description/
-// Time Complexity: O(n)
+// Problem Link: https://leetcode.com/problems/pascals-triangle/description/
+// Time Complexity: O(n^2)
