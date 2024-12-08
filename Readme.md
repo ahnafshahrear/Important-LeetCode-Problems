@@ -4,7 +4,7 @@
 ### **This repository contains some must-solve important LeetCode problems to ace technical & coding interviews for Software Engineering Jobs**
 
 > [!IMPORTANT]
-> **Try to solve every problem from [LeetCode Blind 75](https://leetcode.com/studyplan/leetcode-75/), [LeetCode Top Interview 150](https://leetcode.com/studyplan/top-interview-150/), [LeetCode Top Interview Questions](https://leetcode.com/explore/interview/card/top-interview-questions-easy/) & [LeetCode Top 150 Liked Problems](https://leetcode.com/studyplan/top-100-liked/)**
+> **Try to solve every problem from [LeetCode Blind 75](https://leetcode.com/studyplan/leetcode-75/), [LeetCode Top Interview 150](https://leetcode.com/studyplan/top-interview-150/), [LeetCode Top Interview Questions](https://leetcode.com/explore/interview/card/top-interview-questions-easy/), [LeetCode Top 150 Liked Problems](https://leetcode.com/studyplan/top-100-liked/) & [NeetCode Blind 75](https://github.com/ahnafshahrear/NeetCode-Blind-75)**
 
 **Checkout my LeetCode profile [`ahnafshahrear`](https://leetcode.com/u/ahnafshahrear/)**
 
