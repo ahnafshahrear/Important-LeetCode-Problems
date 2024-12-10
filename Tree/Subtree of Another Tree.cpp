@@ -12,5 +12,5 @@ private:
     }
 };
 
-// Problem Link: hhttps://leetcode.com/problems/subtree-of-another-tree/description/
+// Problem Link: https://leetcode.com/problems/subtree-of-another-tree/description/
 // Time Complexity: O(m*n)
