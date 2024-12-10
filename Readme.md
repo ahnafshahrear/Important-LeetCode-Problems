@@ -96,4 +96,8 @@
 
 ## Sliding Window
 - **[Count Subarrays Max Element Appears K Times](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/description/)**
+- **[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/)**
+- **[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/)**
+- **[Permutation in String](https://leetcode.com/problems/permutation-in-string/description/)**
+- **[Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/description/)**
 
