@@ -95,9 +95,5 @@
 
 
 ## Sliding Window
-- **[]()**
-- **[]()**
-- **[]()**
-- **[]()**
-- **[]()**
+- **[Count Subarrays Max Element Appears K Times](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/description/)**
 
