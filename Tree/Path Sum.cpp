@@ -11,5 +11,5 @@ public:
     }
 };
 
-// Problem Link: hhttps://leetcode.com/problems/path-sum/description/
+// Problem Link: https://leetcode.com/problems/path-sum/description/
 // Time Complexity: O(n)
