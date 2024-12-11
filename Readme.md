@@ -30,6 +30,7 @@
 - **[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/)**
 - **[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)**
 - **[Count & Say](https://leetcode.com/problems/count-and-say/description/)**
+- **[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/description/)**
 
 
 
